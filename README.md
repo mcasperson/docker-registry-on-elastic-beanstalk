@@ -9,6 +9,7 @@
   * ```S3_ACCESS_KEY``` access key of the created user
   * ```S3_SECRET_KEY``` secret key of the created user
   * ```SECRET_KEY``` a random secret key, the registry uses this for secret things (https://github.com/dotcloud/docker-registry#general-options)
+  * ```SETTINGS_FLAVOR``` set to `s3`
  * when the wizard asks you for the app, upload the zip file
  * complete the wizard
  * wait for the environment and app to spin up
