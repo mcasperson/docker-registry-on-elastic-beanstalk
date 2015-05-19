@@ -16,6 +16,9 @@
  * profit
  
 the registry will be running on port 80 (not 5000)
+
+To test, open http://beanstalk_app_name.elasticbeanstalk.com/v1/_ping. You should see a result of {}.
+
  
  
  
